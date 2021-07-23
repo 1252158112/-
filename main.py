@@ -9752,8 +9752,8 @@ def getAllPerson(s, room_id, date):
 
 
 if __name__ == '__main__':
-    userid = '2019211001000925'
-    password = '250417'
+    userid = ''
+    password = ''
     dev_id = 100532031  # 座位号
     lab_id = 100531890  # 自习室号
     room_id = '100531916'  # 房间号
